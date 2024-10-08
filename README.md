@@ -1,4 +1,4 @@
-/* Problem Description:
+ Problem Description:
 
 Write a program that reads a text file that contains 0's and 1's in a regular N x M sized grid.  Here is an example of what a valid input file looks like:
 
@@ -60,4 +60,4 @@ Your function would return 2, because there are 2 connected shapes:
 
 and
 
-11       at position (4, 1) */
+11       at position (4, 1) 
